@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "测试标题.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
