@@ -15,7 +15,7 @@
               "state": {
                 "file": "测试标题.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "测试标题"
