@@ -1,0 +1,26 @@
+{
+  "obsidian-version-history-diff:open-recovery-diff-view": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-version-history-diff:open-git-diff-view": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "X"
+    }
+  ],
+  "obsidian-version-history-diff:open-sync-diff-view": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ]
+}
